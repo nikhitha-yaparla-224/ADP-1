@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>recipes</title>
+<h1><i>CUT CORNERS</i></h1>
+<body>
+</body>
+</html>
+
